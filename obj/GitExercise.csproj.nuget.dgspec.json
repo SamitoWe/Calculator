@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\481\\матеряли\\Software-Engineering-IT-Kariera-2020\\03-version-control-systems\\GitExercise\\GitExercise\\GitExercise.csproj": {}
+    "C:\\Users\\teachers\\Desktop\\gitsami\\Calculator\\GitExercise.csproj": {}
   },
   "projects": {
-    "D:\\481\\матеряли\\Software-Engineering-IT-Kariera-2020\\03-version-control-systems\\GitExercise\\GitExercise\\GitExercise.csproj": {
+    "C:\\Users\\teachers\\Desktop\\gitsami\\Calculator\\GitExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\481\\матеряли\\Software-Engineering-IT-Kariera-2020\\03-version-control-systems\\GitExercise\\GitExercise\\GitExercise.csproj",
+        "projectUniqueName": "C:\\Users\\teachers\\Desktop\\gitsami\\Calculator\\GitExercise.csproj",
         "projectName": "GitExercise",
-        "projectPath": "D:\\481\\матеряли\\Software-Engineering-IT-Kariera-2020\\03-version-control-systems\\GitExercise\\GitExercise\\GitExercise.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\481\\матеряли\\Software-Engineering-IT-Kariera-2020\\03-version-control-systems\\GitExercise\\GitExercise\\obj\\",
+        "projectPath": "C:\\Users\\teachers\\Desktop\\gitsami\\Calculator\\GitExercise.csproj",
+        "packagesPath": "C:\\Users\\teachers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\teachers\\Desktop\\gitsami\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\teachers\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
